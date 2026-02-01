@@ -1,0 +1,9 @@
+==== KBO selection ====
+On August 28, 2015, 486958 Arrokoth (then known as (486958) 2014 MU69 and nicknamed Ultima Thule) (PT1) was chosen as the flyby target. The necessary course adjustment was performed with four engine firings between October 22 and November 4, 2015. The flyby occurred on January 1, 2019, at 00:33 UTC.
+
+
+=== Observations of other KBOs ===
+Aside from its flyby of 486958 Arrokoth, the extended mission for New Horizons calls for the spacecraft to conduct observations of, and look for ring systems around, between 25 and 35 different KBOs. In addition, it will continue to study the gas, dust and plasma composition of the Kuiper belt before the mission extension ends in 2021.
+On November 2, 2015, New Horizons imaged KBO 15810 Arawn with the LORRI instrument from 280 million km away (170 million mi; 1.9 AU). This KBO was again imaged by the LORRI instrument on April 7–8, 2016, from a distance of 111 million km (69 million mi; 0.74 AU). The new images allowed the science team to further refine the location of 15810 Arawn to within 1,000 km (620 mi) and to determine its rotational period of 5.47 hours.
+In July 2016, the LORRI camera captured some distant images of Quaoar from 2.1 billion km away (1.3 billion mi; 14 AU); the oblique view will complement Earth-based observations to study the object's light-scattering properties.
+On December 5, 2017, when New Horizons was 40.9 AU from Earth, a calibration image of the Wishing Well cluster marked the most distant image ever taken by a spacecraft (breaking the 27-year record set by Voyager 1's famous Pale Blue Dot). Two hours later, New Horizons surpassed its own record, imaging the Kuiper belt objects 2012 HZ84 and 2012 HE85 from a distance of 0.50 and 0.34 AU, respectively. These were the closest images taken of a Kuiper belt object besides Pluto and Arrokoth as of February 2018.

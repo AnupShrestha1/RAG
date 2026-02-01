@@ -1,0 +1,23 @@
+== Software ==
+
+Generally, open source refers to a computer program in which the source code is available to the general public for use for any (including commercial) purpose, or modification from its original design. Open-source code is meant to be a collaborative effort, where programmers improve upon the source code and share the changes within the community. Code is released under the terms of a software license. Depending on the license terms, others may then download, modify, and publish their version (fork) back to the community.
+
+List of free and open-source software packages
+Open-source license, a copyright license that makes the source code available with a product
+The Open Source Definition, as used by the Open Source Initiative for open source software
+Open-source model, a decentralized software development model that encourages open collaboration
+Open-source software, software which permits the use and modification of its source code
+History of free and open-source software
+Open-source software advocacy
+Open-source software development
+Open-source-software movement
+Open-source video games
+List of open-source video games
+Business models for open-source software
+Comparison of open-source and closed-source software
+Diversity in open-source software
+MapGuide Open Source, a web-based map-making platform to develop and deploy web mapping applications and geospatial web services (not to be confused with OpenStreetMap (OSM), a collaborative project to create a free editable map of the world).
+
+
+== Hardware ==
+RISC-V

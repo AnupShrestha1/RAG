@@ -1,0 +1,51 @@
+=== Brazil ===
+MAA-1A Piranha – Short-range IR
+MAA-1B Piranha – IR-guided missile.
+A-Darter – Short-range IR (With South Africa)
+
+
+=== Canada ===
+Velvet Glove - short range, semi-active radar-guided
+
+
+=== France ===
+Nord AA.20, AA.25 – radio-guided, beam-riding
+Matra R.510 – IR-guided
+Matra R.511 – radar-guided
+Matra R.550 Magic – short-range, IR-guided
+Matra Magic II – IR-guided
+Matra R.530 – medium-range, IR- or radar-guided
+Matra Super 530F/Super 530D – medium-range, radar-guided
+Matra Mistral – IR-guided
+MBDA MICA – medium-range, IR- or active radar-guided
+MBDA Meteor – long-range active radar-guided missile, integrated on Rafale.
+TRIGAT LR
+
+
+=== Germany ===
+
+Henschel Hs 298 – World War II design, MCLOS, never saw service
+IRIS-T
+MBDA Meteor long-range, active radar-guided, pending contract for integration on Eurofighter.
+Ruhrstahl X-4 – World War II design, first practical anti-aircraft missile, MCLOS, never saw service
+RZ 65 missile project developed by Rheinmetall-Borsig in 1941. After about 3000 tests it revealed itself unsatisfactory owing to an accuracy of only 15%. The project was terminated by the end of the war.
+Dornier Viper
+
+
+=== India ===
+
+Astra Mk 1 – Long-range radar-guided
+Astra Mk 2 – Long-range radar-guided
+Astra Mk 3 – Long-range radar-guided
+Astra IR – Short-range infrared homing
+K-100 (missile) – Inertial navigation and active radar homing (with Russia)
+
+
+=== Iran ===
+Fatter – copy of U.S. AIM-9 Sidewinder
+Sedjil – copy of U.S. MIM-23 Hawk converted to be carried by aircraft
+Fakour-90 – copy of U.S. AIM-54 Phoenix
+
+
+=== Iraq ===
+Al Humurrabi – Long-range, semi active radar

@@ -1,0 +1,13 @@
+==== Light-flash phenomenon and other experiments ====
+
+Beginning with Apollo 11, crew members observed light flashes that penetrated their closed eyelids. These flashes, described by the astronauts as "streaks" or "specks" of light, were usually observed while the spacecraft was darkened during a sleep period. These flashes, while not observed on the lunar surface, would average about two per minute and were observed by the crew members during the trip out to the Moon, back to Earth, and in lunar orbit.
+The Apollo 17 crew repeated an experiment, also conducted on Apollo 16, with the objective of linking these light flashes with cosmic rays. Evans wore a device over his eyes that recorded the time, strength, and path of high-energy atomic particles that penetrated the device, while the other two wore blindfolds to keep out light. Investigators concluded that the available evidence supports the hypothesis that these flashes occur when charged particles travel through the retina in the eye.
+Apollo 17 carried a sodium-iodide crystal identical to the ones in the gamma-ray spectrometer flown on Apollo 15 and 16. Data from this, once it was examined on Earth, was to be used to help form a baseline, allowing for subtraction of rays from the CM or from cosmic radiation to gain better data from the earlier results. In addition, the S-band transponders in the CSM and LM were pointed at the Moon to gain data on its gravitational field. Results from the Lunar Orbiter probes had revealed that lunar gravity varies slightly due to the presence of mass concentrations, or "mascons". Data from the missions, and from the lunar subsatellites left by Apollo 15 and 16, were used to map such variations in lunar gravity.
+
+
+== Mission events ==
+
+
+=== Launch and outbound trip ===
+
+Originally planned to launch on December 6, 1972, at 9:53 p.m. EST (2:53 a.m. on December 7 UTC), Apollo 17 was the final crewed Saturn V launch, and the only one to occur at night. The launch was delayed by two hours and forty minutes due to an automatic cutoff in the launch sequencer at the T−30 second mark in the countdown.

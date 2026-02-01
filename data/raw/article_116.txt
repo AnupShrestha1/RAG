@@ -1,0 +1,13 @@
+== Metamorphism ==
+
+According to the International Association of Cryospheric Sciences, snow metamorphism is "the transformation that the snow undergoes in the period from deposition to either melting or passage to glacial ice". Starting as a powdery deposition, snow becomes more granular when it begins to compact under its own weight, be blown by the wind, sinter particles together and commence the cycle of melting and refreezing. Water vapor plays a role as it deposits ice crystals, known as hoar frost, during cold, still conditions. During this transition, snow "is a highly porous, sintered material made up of a continuous ice structure and a continuously connected pore space, forming together the snow microstructure". Almost always near its melting temperature, a snowpack is continually transforming these properties wherein all three phases of water may coexist, including liquid water partially filling the pore space. After deposition, snow progresses on one of two paths that determine its fate, either by ablation (mostly by melting) from a snowfall or seasonal snowpack, or by transitioning from firn (multi-year snow) into glacier ice.
+
+
+=== Seasonal ===
+
+Over the course of time, a snowpack may settle under its own weight until its density is approximately 30% of water. Increases in density above this initial compression occur primarily by melting and refreezing, caused by temperatures above freezing or by direct solar radiation. In colder climates, snow lies on the ground all winter. By late spring, snow densities typically reach a maximum of 50% of water. Snow that persists into summer evolves into névé, granular snow, which has been partially melted, refrozen and compacted. Névé has a minimum density of 500 kilograms per cubic metre (31 lb/cu ft), which is roughly half of the density of liquid water.
+
+
+=== Firn ===
+
+Firn is snow that has persisted for multiple years and has been recrystallized into a substance denser than névé, yet less dense and hard than glacial ice. Firn resembles caked sugar and is very resistant to shovelling. Its density generally ranges from 550 to 830 kilograms per cubic metre (34 to 52 lb/cu ft), and it can often be found underneath the snow that accumulates at the head of a glacier. The minimum altitude that firn accumulates on a glacier is called the firn limit, firn line or snowline.

@@ -1,0 +1,14 @@
+== History ==
+
+
+=== Background ===
+In September 1945, the U.S. government brought the German rocket technologist Wernher von Braun  and over 1,500 German rocket engineers and technicians to the United States in Operation Paperclip, a program authorized by President Truman. Von Braun, who had helped create the German V-2 rocket, was assigned to the Army's rocket design division. Between 1945 and 1958, his work was restricted to conveying the ideas and methods behind the V-2 to American engineers, though he wrote books and articles in popular magazines.
+This approach changed in 1957, when the Soviets launched Sputnik 1 atop an R-7 ICBM, which could carry a thermonuclear warhead to the U.S. The Army and government began putting more effort towards sending Americans into space before the Soviets. They turned to von Braun's team, who had created the Jupiter series of rockets. The Juno I rocket launched the first American satellite in January 1958. Von Braun considered the Jupiter series of rockets to be a prototype of the upcoming Saturn series of rockets, and referred to it as "an infant Saturn".
+
+
+=== Saturn development ===
+
+Named after the sixth planet from the Sun, the design of the various Saturn rockets evolved from the Jupiter vehicles.
+Between 1960 and 1962, the Marshall Space Flight Center (MSFC) designed a series of Saturn rockets that could be deployed for Earth orbit and lunar missions.
+NASA planned to use the Saturn C-3 as part of the Earth orbit rendezvous (EOR) method for a lunar mission, with at least two or three launches needed for a single landing on the Moon. However, the MSFC planned an even bigger rocket, the C-4, which would use four F-1 engines in its first stage, an enlarged C-3 second stage, and the S-IVB, a stage with a single J-2 engine, as its third stage. The C-4 would only need to carry out two launches to carry out an EOR lunar mission.
+On January 10, 1962, NASA announced plans to build the C-5. The three-stage rocket would consist of the S-IC first stage, with five F-1 engines; the S-II second stage, with five J-2 engines; and the S-IVB third stage, with a single J-2 engine.

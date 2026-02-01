@@ -1,0 +1,21 @@
+=== Mementos ===
+In addition to the science equipment, there are nine cultural artifacts traveling with the spacecraft. These include a collection of 434,738 names stored on a compact disc, a collection of images of New Horizons project personnel on another CD, a piece of Scaled Composites's SpaceShipOne, a "Not Yet Explored" USPS stamp, and two copies of the Flag of the United States.
+About 30 grams (1 oz) of Clyde Tombaugh's ashes are aboard the spacecraft, to commemorate his discovery of Pluto in 1930. A Florida state quarter coin, whose design commemorates human exploration, is included, officially as a trim weight, as is a Maryland state quarter to honor the probe's builders. One of the science packages (a dust counter) is named after Venetia Burney, who, as a child, suggested the name "Pluto" after its discovery.
+
+
+== Goal ==
+
+The goal of the mission is to understand the formation of the Plutonian system, the Kuiper belt, and the transformation of the early Solar System. The spacecraft collected data on the atmospheres, surfaces, interiors, and environments of Pluto and its moons. It will also study other objects in the Kuiper belt. "By way of comparison, New Horizons gathered 5,000 times as much data at Pluto as Mariner did at the Red Planet."
+Some of the questions the mission attempts to answer are: What is Pluto's atmosphere made of and how does it behave? What does its surface look like? Are there large geological structures? How do solar wind particles interact with Pluto's atmosphere?
+Specifically, the mission's science objectives are to:
+
+Map the surface compositions of Pluto and Charon
+Characterize the geologies and morphologies of Pluto and Charon
+Characterize the neutral atmosphere of Pluto and its escape rate
+Search for an atmosphere around Charon
+Map surface temperatures on Pluto and Charon
+Search for rings and additional satellites around Pluto
+Conduct similar investigations of one or more Kuiper belt objects
+
+
+== Design and construction ==

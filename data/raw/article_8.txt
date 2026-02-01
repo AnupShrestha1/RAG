@@ -1,0 +1,23 @@
+== India ==
+NATGRID: India is setting up a national intelligence grid called NATGRID, which will become operational in 2013. NATGRID would allow access to each individual's data ranging from land records, Internet logs, air and rail PNR, phone records, gun records, driving license, property records, insurance, and income tax records in real time and with no oversight. With a UID from the Unique Identification Authority of India being given to every Indian from February 2011, the government would be able track people in real time. A national population registry of all citizens will be established by the 2011 census, during which fingerprints and iris scans would be taken along with GPS records of each household. Access to the combined data will be given to 11 agencies, including the Research and Analysis Wing, the Intelligence Bureau, the Enforcement Directorate, the National Investigation Agency, the Central Bureau of Investigation, the Directorate of Revenue Intelligence and the Narcotics Control Bureau.
+
+
+== Interpol ==
+
+Interpol's DNA database profiles, shared by 49 countries.
+Interpol fingerprint database, a database containing more than 160,000 fingerprint records submitted by its member countries. These fingerprints are collected from crime scenes, and from known and suspected criminals.
+
+
+== Russia ==
+SORM and SORM-2, technical systems from 1996 and 1998 that allow searching and surveillance of telephone and Internet communications.
+
+
+== Pakistan ==
+NADRA, The National Database & Registration Authority (NADRA) was established on 10 March 2000. Nadra is also responsible to issuing the computerized national identity cards and Passports to the citizens of Pakistan.
+
+
+== United States ==
+
+National ID card: The United States does not have a national ID card, in the sense that there is no federal agency with nationwide jurisdiction that directly issues such cards to all American citizens for mandatory regular use.
+Passport: The only national photo identity documents are the passport and passport card, which are issued to U.S. nationals only upon voluntary application.
+Social Security number: The vast majority of, but not all, Americans have a Social Security number because it is required for many purposes including employment, federal child tax deductions, and financial transactions. Social security numbers have become a de facto standard for uniquely identifying people in government and private databases.

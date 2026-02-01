@@ -1,0 +1,17 @@
+== Definition ==
+A practical definition of water pollution is: "Water pollution is the addition of substances or energy forms that directly or indirectly alter the nature of the water body in such a manner that negatively affects its legitimate uses.": 6  Water is typically referred to as polluted when it is impaired by anthropogenic contaminants. Due to these contaminants, it either no longer supports a certain human use, such as drinking water, or undergoes a marked shift in its ability to support its biotic communities, such as fish.
+
+
+== Contaminants ==
+
+
+=== Contaminants with an origin in sewage ===
+
+The following compounds can all reach water bodies via raw sewage or even treated sewage discharges:
+
+Various chemical compounds found in personal hygiene and cosmetic products.
+Disinfection by-products found in chemically disinfected drinking water (whilst these chemicals can be a pollutant in the water distribution network, they are fairly volatile and therefore not usually found in environmental waters).
+Hormones (from animal husbandry and residue from human hormonal contraception methods) and synthetic materials such as phthalates that mimic hormones in their action. These can have adverse impacts even at very low concentrations on the natural biota and potentially on humans if the water is treated and utilized for drinking water.
+Insecticides and herbicides, often from agricultural runoff.
+Pathogens like Hepatovirus A (HAV may be present in treated wastewater outflows and receiving water bodies but is largely removed during further treatment of drinking water)
+Inadequately treated wastewater can convey nutrients, pathogens, heterogenous suspended solids and organic fecal matter.: 6

@@ -1,0 +1,7 @@
+== Impact ==
+
+
+=== Health effects ===
+
+In hot weather, air conditioning can prevent heat stroke, dehydration due to excessive sweating, electrolyte imbalance, kidney failure, and other issues due to hyperthermia. Heat waves are the most lethal type of weather phenomenon in the United States. A 2020 study found that areas with lower use of air conditioning correlated with higher rates of heat-related mortality and hospitalizations. The August 2003 France heatwave resulted in approximately 15,000 deaths, where 80% of the victims were over 75 years old. In response, the French government required all retirement homes to have at least one air-conditioned room at 25 °C (77 °F) per floor during heatwaves.
+Air conditioning (including filtration, humidification, cooling and disinfection) can be used to provide a clean, safe, hypoallergenic atmosphere in hospital operating rooms and other environments where proper atmosphere is critical to patient safety and well-being. It is sometimes recommended for home use by people with allergies, especially mold. However, poorly maintained water cooling towers can promote the growth and spread of microorganisms such as Legionella pneumophila, the infectious agent responsible for Legionnaires' disease. As long as the cooling tower is kept clean (usually by means of a chlorine treatment), these health hazards can be avoided or reduced. The state of New York has codified requirements for registration, maintenance, and testing of cooling towers to protect against Legionella.

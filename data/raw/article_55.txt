@@ -1,0 +1,22 @@
+=== Dock ===
+The Nintendo Switch console, with or without Joy-Con attached, can be placed into the Switch dock, a docking station equipped to charge the console's battery and output video and audio to a television via HDMI. The dock includes two USB 2.0 ports and one USB 3.0 port. When docked, the console supports resolutions up to 1080p and a maximum frame rate of 60 frames per second, though actual resolution varies by game. 
+
+The dock measures 173 millimeters (6.8 in) in width, 104 mm (4.1 in) in height, and 54 mm (2.1 in) in depth and weighs 327 grams (11.5 oz). The version included with the OLED model features a slightly redesigned housing and replaces the rear USB port with a built-in Ethernet port for a wired internet connection.
+
+
+=== Controllers ===
+
+
+==== Joy-Con ====
+
+The Nintendo Switch includes two controllers, collectively called Joy-Con and individually referred to as the "Joy-Con (L)" and "Joy-Con (R)". These controllers attach to the console via side rails with a locking mechanism, and a small release button on the back allows for detachment. When connected to the console, the Joy-Con recharge automatically. When detached, they can be used as a pair by a single player, attached to a grip accessory to mimic a traditional gamepad—which also allows charging via USB-C—or used separately as individual controllers for two players. Straps can be attached for better grip when detached, and a charging grip powered by AA batteries is also available. A single Switch console supports up to eight Joy-Con connections simultaneously.
+
+
+==== Pro Controller ====
+
+The Nintendo Switch Pro Controller is a separate wireless controller that offers a more traditional design, resembling the Wii Classic Controller Pro and Wii U Pro Controller. It connects to the Switch via Bluetooth and charges through a USB-C port..
+
+
+==== Other ====
+The Nintendo Switch supports a wide array of additional accessories, according to Kimishima. Kimishima suggested that the Switch is part of a large ecosystem of devices, though the Switch unit remains the core console element. Takahashi suggested the possibility of other units besides the Joy-Con that could attach and/or connect to the console to serve as alternate input devices and change how the Switch can be used.
+Nintendo offers a Joy-Con Wheel, a small steering wheel-like unit that a Joy-Con can slot into, allowing it to be used for racing games such as Mario Kart 8 Deluxe.

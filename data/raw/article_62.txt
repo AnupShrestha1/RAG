@@ -1,0 +1,45 @@
+The most popular database model for general-purpose databases is the relational model, or more precisely, the relational model as represented by the SQL language. The process of creating a logical database design using this model uses a methodical approach known as normalization. The goal of normalization is to ensure that each elementary "fact" is only recorded in one place, so that insertions, updates, and deletions automatically maintain consistency.
+The final stage of database design is to make the decisions that affect performance, scalability, recovery, security, and the like, which depend on the particular DBMS. This is often called physical database design, and the output is the physical data model. A key goal during this stage is data independence, meaning that the decisions made for performance optimization purposes should be invisible to end-users and applications. There are two types of data independence: Physical data independence and logical data independence. Physical design is driven mainly by performance requirements, and requires a good knowledge of the expected workload and access patterns, and a deep understanding of the features offered by the chosen DBMS.
+Another aspect of physical database design is security. It involves both defining access control to database objects as well as defining security levels and methods for the data itself.
+
+
+=== Models ===
+
+A database model is a type of data model that determines the logical structure of a database and fundamentally determines in which manner data can be stored, organized, and manipulated. The most popular example of a database model is the relational model (or the SQL approximation of relational), which uses a table-based format.
+Common logical data models for databases include:
+
+Navigational databases
+Hierarchical database model
+Network model
+Graph database
+Relational model
+Entity–relationship model
+Enhanced entity–relationship model
+Object model
+Document model
+Entity–attribute–value model
+Star schema
+An object–relational database combines the two related structures.
+Physical data models include:
+
+Inverted index
+Flat file
+Other models include:
+
+Multidimensional model
+Array model
+Multivalue model
+Specialized models are optimized for particular types of data:
+
+XML database
+Semantic model
+Content store
+Event store
+Time series model
+
+
+=== External, conceptual, and internal views ===
+
+A database management system provides three views of the database data:
+
+The external level defines how each group of end-users sees the organization of data in the database. A single database can have any number of views at the external level.

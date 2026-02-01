@@ -1,0 +1,7 @@
+# Python libraries
+datasets
+transformers
+sentence-transformers
+langchain
+chromadb
+torch      # Required by transformers and sentence-transformers

@@ -1,0 +1,13 @@
+== F Ring ==
+
+The F Ring is the outermost discrete ring of Saturn and perhaps the most active ring in the Solar System, with features changing on a timescale of hours. It is located 3,000 km (2000 miles) beyond the outer edge of the A ring. The ring was discovered in 1979 by the Pioneer 11 imaging team. It is very thin, just a few hundred km (miles) in radial extent. While the traditional view has been that it is held together by two shepherd moons, Prometheus and Pandora, which orbit inside and outside it, recent studies indicate that only Prometheus contributes to the confinement. Numerical simulations suggest the ring was formed when Prometheus and Pandora collided with each other and were partially disrupted.
+More recent closeup images from the Cassini probe show that the F Ring consists of one core ring and a spiral strand around it. They also show that when Prometheus encounters the ring at its apoapsis, its gravitational attraction creates kinks and knots in the F Ring as the moon 'steals' material from it, leaving a dark channel in the inner part of the ring. Since Prometheus orbits Saturn more rapidly than the material in the F ring, each new channel is carved about 3.2 degrees in front of the previous one.
+In 2008, further dynamism was detected, suggesting that small unseen moons orbiting within the F Ring are continually passing through its narrow core because of perturbations from Prometheus. One of the small moons was tentatively identified as S/2004 S 6.
+As of 2023, the clumpy structure of the ring "is thought to be caused by the presence of thousands of small parent bodies (1.0 to 0.1 km in size) that collide and produce dense strands of micrometer- to centimeter-sized particles that re-accrete over a few months onto the parent bodies in a steady-state regime."
+
+
+== Outer rings ==
+
+
+=== Janus/Epimetheus Ring ===
+A faint dust ring is present around the region occupied by the orbits of Janus and Epimetheus, as revealed by images taken in forward-scattered light by the Cassini spacecraft in 2006. The ring has a radial extent of about 5,000 km (3000 miles). Its source is particles blasted off the moons' surfaces by meteoroid impacts, which then form a diffuse ring around their orbital paths.

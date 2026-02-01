@@ -1,0 +1,15 @@
+== Background ==
+Graph databases portray the data as it is viewed conceptually. This is accomplished by transferring the data into nodes and its relationships into edges.
+A graph database is a database that is based on graph theory. It consists of a set of objects, which can be a node or an edge.
+
+Nodes represent entities or instances such as people, businesses, accounts, or any other item to be tracked. They are roughly the equivalent of a record, relation, or row in a relational database, or a document in a document-store database.
+Edges, also termed graphs or relationships, are the lines that connect nodes to other nodes; representing the relationship between them. Meaningful patterns emerge when examining the connections and interconnections of nodes, properties and edges. The edges can either be directed or undirected. In an undirected graph, an edge connecting two nodes has a single meaning. In a directed graph, the edges connecting two different nodes have different meanings, depending on their direction. Edges are the key concept in graph databases, representing an abstraction that is not directly implemented in a relational model or a document-store model.
+Properties are information associated to nodes. For example, if Wikipedia were one of the nodes, it might be tied to properties such as website, reference material, or words that starts with the letter w, depending on which aspects of Wikipedia are germane to a given database.
+
+
+== Graph models ==
+
+
+=== Labeled-property graph ===
+
+A labeled-property graph model is represented by a set of nodes, relationships, properties, and labels. Both nodes of data and their relationships are named and can store properties represented by key–value pairs. Nodes can be labelled to be grouped. The edges representing the relationships have two qualities: they always have a start node and an end node, and are directed; making the graph a directed graph. Relationships can also have properties. This is useful in providing additional metadata and semantics to relationships of the nodes. Direct storage of relationships allows a constant-time traversal.

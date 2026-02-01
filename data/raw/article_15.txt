@@ -1,0 +1,18 @@
+=== Installations ===
+
+
+=== Operational organization ===
+
+The organizational structure as shown above is responsible for the peacetime organization, equipping, and training of air units for operational missions. When required to support operational missions, the secretary of defense (SECDEF) directs the secretary of the Air Force (SECAF) to execute a Change in Operational Control (CHOP) of these units from their administrative alignment to the operational command of a Regional Combatant commander (CCDR). In the case of AFSPC, AFSOC, PACAF, and USAFE units, forces are normally employed in-place under their existing CCDR. Likewise, AMC forces operating in support roles retain their componency to USTRANSCOM unless chopped to a Regional CCDR.
+
+
+==== Air Expeditionary Task Force ====
+"Chopped" units are referred to as forces. The top-level structure of these forces is the Air Expeditionary Task Force (AETF). The AETF is the Air Force presentation of forces to a CCDR for the employment of air power. Each CCDR is supported by a standing Component Numbered Air Force (C-NAF) to provide planning and execution of air forces in support of CCDR requirements. Each C-NAF consists of a Commander, Air Force Forces (COMAFFOR) and AFFOR/A-staff, and an Air Operations Center (AOC). As needed to support multiple Joint Force Commanders (JFC) in the CCMD's Area of Responsibility (AOR), the C-NAF may deploy Air Component Coordinate Elements (ACCE) to liaise with the JFC. If the Air Force possesses the preponderance of air forces in a JFC's area of operations, the COMAFFOR will also serve as the Joint Forces Air Component Commander (JFACC).
+
+
+==== Commander, Air Force Forces ====
+The commander, Air Force Forces (COMAFFOR) is the senior USAF officer responsible for the employment of air power in support of JFC objectives. The COMAFFOR has a special staff and an A-Staff to ensure assigned or attached forces are properly organized, equipped, and trained to support the operational mission.
+
+
+==== Air Operations Center ====
+The Air Operations Center (AOC) is the JFACC's Command and Control (C2) center. Several AOCs have been established throughout the Air Force worldwide. These centers are responsible for planning and executing air power missions in support of JFC objectives.

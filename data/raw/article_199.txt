@@ -1,0 +1,15 @@
+Conspiracists often use this evidence to suggest that objects were "pasted" over the photographs, and hence obscure the reticle.
+
+This effect only appears in copied and scanned photos, not any originals. It is caused by overexposure: the bright white areas of the emulsion "bleed" over the thin black crosshairs. The crosshairs are only about 0.004 inches thick (0.1 mm) and emulsion would only have to bleed about half that much to fully obscure it. Furthermore, there are many photos where the middle of the crosshair is "washed-out" but the rest is intact. In some photos of the American flag, parts of one crosshair appear on the red stripes, but parts of the same crosshair are faded or invisible on the white stripes. There would have been no reason to "paste" white stripes onto the flag.
+
+2. Crosshairs are sometimes rotated or in the wrong place.
+
+This is a result of popular photos being cropped or rotated for aesthetic impact.
+3. The quality of the photographs is implausibly high.
+
+There are many poor quality photos taken by the Apollo astronauts. NASA chose to publish only the best examples.
+The Apollo astronauts used high-resolution Hasselblad 500 EL cameras with Carl Zeiss optics and a 70 mm medium format film magazine.
+4. There are no stars in any of the photos; the Apollo 11 astronauts also stated in post-mission press conferences that they did not remember seeing any stars during extravehicular activity (EVA). Conspiracists contend that NASA chose not to put the stars into the photos because astronomers would have been able to use them to determine whether the photos were taken from the Earth or the Moon, by means of identifying them and comparing their celestial position and parallax to what would be expected for either observation site.
+
+The astronauts were talking about naked-eye sightings of stars during the lunar daytime. They regularly sighted stars through the spacecraft navigation optics while aligning their inertial reference platforms, the Apollo PGNCS.
+Stars are rarely seen in Space Shuttle, Mir, Earth observation photos, or even photos taken at sporting events held at night. The light from the Sun in outer space in the Earth-Moon system is at least as bright as the sunlight that reaches the Earth's surface on a clear day at noon, so cameras used for imaging subjects illuminated by sunlight are set for a daylight exposure.

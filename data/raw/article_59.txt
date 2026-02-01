@@ -1,0 +1,43 @@
+==== Amphibious assault ships ====
+Tarawa class (USS Tarawa, USS Nassau)
+Iwo Jima class (USS Iwo Jima, USS Guadalcanal, USS Guam, USS Tripoli, USS New Orleans)
+
+
+==== Guided missile cruisers ====
+Leahy class (USS Worden, USS Richmond K. Turner, USS Halsey)
+Belknap class (USS Horne, USS Biddle)
+Ticonderoga class (USS Valley Forge, USS Thomas S. Gates, USS Bunker Hill, USS Mobile Bay, USS Leyte Gulf, USS San Jacinto, USS Philippine Sea, USS Princeton, USS Normandy)
+California class (USS South Carolina)
+Virginia class (USS Virginia, USS Mississippi)
+
+
+==== Destroyer tenders ====
+Samuel Gompers class (USS Samuel Gompers)
+Yellowstone class (USS Yellowstone, USS Acadia, USS Cape Cod)
+
+
+==== Destroyers ====
+Spruance class (USS Spruance, USS Paul F. Foster, USS Caron, USS Oldendorf, USS Moosbrugger, USS Leftwich, USS Harry W. Hill, USS Fife)
+
+
+==== Guided missile destroyers ====
+Farragut class (USS Macdonough, USS Coontz, USS Preble)
+Kidd class (USS Kidd)
+
+
+==== Frigates ====
+Knox class (USS Marvin Shields, USS Francis Hammond, USS Vreeland, USS Thomas C. Hart)
+Oliver Hazard Perry class (USS McInerney, USS Jarrett, USS Curts, USS Halyburton, USS Nicholas, USS Hawes, USS Ford, USS Samuel B. Roberts)
+
+
+==== Amphibious transport docks ====
+Raleigh class (USS Raleigh, USS Vancouver)
+Austin class (USS Ogden)
+Cleveland class (USS Denver, USS Juneau, USS Shreveport)
+Trenton class (USS Trenton)
+
+
+==== Ammunition ships ====
+Suribachi class (USS Mauna Kea)
+Nitro class (USS Nitro, USS Haleakalā)
+Kilauea class (USS Kilauea, USS Santa Barbara, USS Mount Hood, USS Shasta, USS Kiska (AE-35)|USS Kiska)

@@ -1,0 +1,12 @@
+=== Audio capabilities ===
+The PlayStation 3 has the ability to play standard audio CDs, a feature that was notably removed from its successors. PlayStation 3 added the ability for ripping audio CDs to store them on the system's hard disk; the system has transcoders for ripping to either MP3, AAC, or Sony's own ATRAC (ATRAC3plus) formats. Early models were also able to playback Super Audio CDs, however this support was dropped in the third generation revision of the console from late 2007. However, all models do retain Direct Stream Digital playback ability.
+PlayStation 3 can also play music from portable players by connecting the player to the system's USB port, including from Walkman digital audio players and other ATRAC players and other players that use the UMS protocol. The PlayStation 3 did not feature the Sony CONNECT Music Store.
+
+
+=== OtherOS support ===
+
+PlayStation 3 initially shipped with the ability to install an alternative operating system alongside the main system software; Linux and other Unix-based operating systems were available. The hardware allowed access to six of the seven Synergistic Processing Elements of the Cell microprocessor, but not the RSX 'Reality Synthesizer' graphics chip.
+The 'OtherOS' functionality was not present in the updated PS Slim models, and the feature was subsequently removed from previous versions of the PS3 as part of the machine's firmware update version 3.21 which was released on April 1, 2010; Sony cited security concerns as the rationale. The firmware update 3.21 was mandatory for access to the PlayStation Network.
+The removal caused some controversy; as the update removed officially advertised features from already sold products, and gave rise to several class action lawsuits aimed at making Sony return the feature or provide compensation.
+On December 8, 2011, U.S. District Judge Richard Seeborg dismissed the last remaining count of the class action lawsuit (other claims in the suit had previously been dismissed), stating: "As a legal matter, ... plaintiffs have failed to allege facts or articulate a theory on which Sony may be held liable."
+As of January 2014, the U.S. Court of Appeals for the Ninth Circuit partially reversed the dismissal and have sent the case back to the district court.

@@ -1,0 +1,9 @@
+(PDF)
+v. Engelhardt, S. (2008): "Intellectual Property Rights and Ex-Post Transaction Costs: the Case of Open and Closed Source Software", Jena Economic Research Papers 2008-047. (PDF)
+v. Engelhardt, S.; Swaminathan, S. (2008). "Open Source Software, Closed Source Software or Both: Impacts on Industry Growth and the Role of Intellectual Property Rights" (PDF). Discussion Papers of Diw Berlin.
+v. Engelhardt, S.; Swaminathan, S. (2008). "Open Source Software, Closed Source Software or Both: Impacts on Industry Growth and the Role of Intellectual Property Rights" (PDF). Discussion Papers of Diw Berlin.
+European Commission. (2006). Economic impact of open source software on innovation and the competitiveness of the Information and Communication Technologies sector in the EU. Brussels.
+v. Hippel, E.; v. Krogh, G. (2003). "Open source software and the "private-collective" innovation model: Issues for organization science" (PDF). Organization Science. 14 (2): 209–223. doi:10.1287/orsc.14.2.209.14992. hdl:1721.1/66145. ISSN 1047-7039. S2CID 11947692.
+Kostakis, V.; Bauwens, M. (2014). Network Society and Future Scenarios for a Collaborative Economy. Palgrave Macmillan. ISBN 978-1-137-41506-6. (wiki)
+Lerner J., Pathak P. A., Tirole, J. (2006). "The Dynamics of Open Source Contributors". American Economic Review. 96 (2): 114–8. CiteSeerX 10.1.1.510.9948. doi:10.1257/000282806777211874. ISSN 0002-8282.{{cite journal}}:  CS1 maint: multiple names: authors list (link)
+Lerner, J., Tirole, J. (2002). "Some simple economics on open source". Journal of Industrial Economics. 50 (2): 197–234.

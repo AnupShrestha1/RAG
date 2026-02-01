@@ -1,0 +1,32 @@
+== See also ==
+Big data
+Distributed computing
+Distributed data processing
+List of Apache Software Foundation projects
+List of concurrent and parallel programming languages
+MapReduce
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Official website\n\nAH Capital Management, LLC (commonly known as Andreessen Horowitz, or a16z) is an American privately held venture capital firm, founded in 2009 by Marc Andreessen and Ben Horowitz. The company is headquartered in Menlo Park, California. As of May 2024, Andreessen Horowitz ranks first on the list of venture capital firms by assets under management, with $42 billion.
+Andreessen Horowitz invests in both early-stage startups and established growth companies. Its investments span the healthcare, consumer, cryptocurrency, gaming, fintech, education, and enterprise IT (including cloud computing, security, and software as a service) industries.
+
+
+== Founding and partnering ==
+
+Between 2006 and 2010, Marc Andreessen and Ben Horowitz actively invested in technology companies. Both separately and together, they invested $4 million in 45 startups, including Twitter. During this time, the two became known as "super angel" investors.
+On July 6, 2009, Andreessen and Horowitz launched their venture capital fund with an initial capitalization of $300 million. In November 2010, at a time when the field of venture capitalism was contracting, the company raised an additional $650 million for a second venture fund. In less than two years, the firm was managing a total of $1.2 billion under the two funds.
+As of March 27, 2014, the firm was managing $4 billion in assets following the closing of its fourth fund at $1.5 billion.
+In addition to Andreessen and Horowitz, the firm's general partners include John O'Farrell, Scott Weiss, Jeff Jordan, Peter Levine, Chris Dixon, Vijay Pande, Martin Casado, and Andrew Chen.
+In March 2019, it was reported that Andreessen Horowitz was opening an office in San Francisco.
+In January 2022, Andreessen Horowitz raised $9 billion for its venture capital, growth-stage, and biotech-focused funds.
+As of May 2024, the firm is managing $42 billion in assets.
+
+
+== Notable investments ==
